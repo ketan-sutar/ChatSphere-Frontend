@@ -10,7 +10,7 @@ import {
   setOtherUsers,
   setSelectedUser,
 } from "../Redux/userSlice";
-import { setMessages } from "../redux/messageSlice";
+import { setMessages } from "../Redux/messageSlice";
 import { BASE_URL } from "../config";
 
 const SideBar = () => {
