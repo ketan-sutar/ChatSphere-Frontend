@@ -11,7 +11,7 @@ import { PersistGate } from "redux-persist/integration/react";
 let persistor = persistStore(store);
 
 // export const BASED_URL="https://chat-sphere-backend-vrv0.onrender.com"
-export const BASED_URL = "https://chat-sphere-backend-beta.vercel.app";
+// export const BASED_URL = "https://chat-sphere-backend-beta.vercel.app";
 
 
 
