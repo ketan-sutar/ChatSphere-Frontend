@@ -90,7 +90,7 @@ import {
 import { setMessages } from "../redux/messageSlice";
 import { BASE_URL } from "../config";
 
-const Sidebar = () => {
+const SideBar = () => {
   const [search, setSearch] = useState("");
   const { otherUsers } = useSelector((store) => store.user);
   const dispatch = useDispatch();
@@ -166,4 +166,4 @@ const Sidebar = () => {
   );
 };
 
-export default Sidebar;
+export default SideBar;
