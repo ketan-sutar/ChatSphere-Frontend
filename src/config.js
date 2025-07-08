@@ -1,1 +1,1 @@
-export const BASE_URL = "https://chat-sphere-backend-beta.vercel.app/";
+export const BASE_URL = "https://chat-sphere-backend-beta.vercel.app";
