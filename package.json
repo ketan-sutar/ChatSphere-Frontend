@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "rollup": "3.29.4",
     "@reduxjs/toolkit": "^2.8.2",
     "axios": "^1.9.0",
     "persist-store": "^3.0.2",
