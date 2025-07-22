@@ -28,6 +28,7 @@ const SideBar = () => {
       dispatch(setMessages(null));
       dispatch(setOtherUsers(null));
       dispatch(setSelectedUser(null));
+      
     } catch (error) {
       console.log(error);
     }
